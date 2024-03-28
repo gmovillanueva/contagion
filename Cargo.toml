@@ -1,0 +1,13 @@
+[package]
+name = "contagion"
+version = "0.1.0"
+edition = "2021"
+authors = ["William"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gl = "0.14.0"
+glutin = "0.31.3"
+rustfmt = "0.10.0"
+winit = "0.29.15"
